@@ -20,3 +20,5 @@ Jenkins adalah sebuah open source automation server untuk mengotomatiskan tugas-
 #CREATE JOB
 - How to Trigger a remote build + Job chaining In Jenkins
 - Git and GitHub Integration with Jenkins (SCM)
+- Create User and Install Plugins and Role-Based Authorization Strategy + Manage Roles (https://github.com/jenkinsci/role-strategy-plugin)
+- Configuring the System Environment
