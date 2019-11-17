@@ -18,3 +18,5 @@ Jenkins adalah sebuah open source automation server untuk mengotomatiskan tugas-
 - With Ant
 
 
+- How to Trigger a remote build + Job chaining In Jenkins
+- Git and GitHub Integration with Jenkins (SCM)
